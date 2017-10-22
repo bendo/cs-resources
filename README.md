@@ -260,6 +260,7 @@ See also the general topics below: especially computer graphics, data structures
 - [Real World Haskell](http://book.realworldhaskell.org/) (free book)
 - [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask) (very useful rundown of the ecosystem, common and useful packages/types/etc)
 - [Introduction to Haskell](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)
+- [Hitchhikers guide to Haskell](https://wiki.haskell.org/Hitchhikers_guide_to_Haskell)
 - [Documentation for Prelude](https://hackage.haskell.org/package/base/docs/Prelude.html)
 - [Stack](https://docs.haskellstack.org/en/stable/README) (Package manager with stable package tree snapshots and sandboxing)
 - Lenses
